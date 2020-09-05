@@ -9,10 +9,10 @@
 Los ácidos nucleícos son los encargados de almacenar información sobre la identidad de algún organismo. Dentro de esta categoría se encuentra el ADN (ácido desoxirribonucleico) y el ARN (ácido ribonucleico).
 El ADN contiene información necesaria para determinar la forma, funciones específicas y que características tendrá dicho individuo.
 
-** RETO II: Proponé una forma de expresar la información contenida en la estructura primaria de las proteínas usando tipos de datos de los lenguajes de programación que conocés**
+**RETO II: Proponé una forma de expresar la información contenida en la estructura primaria de las proteínas usando tipos de datos de los lenguajes de programación que conocés**
 Una estructura para almacerna la información primaria de las proteinas puede ser un string (que es una cadena de caracteres) ya que esta cadena puede ser iterable e ir recorriendo cada componente de la estructura.
 
-** RETO III: ¿En qué tipo de datos podrías expresar la información de la estructura terciaria proteica? **
+**RETO III: ¿En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?**
 Una lista de puntos donde dicho punto sea una representación de los ejes x, y, z que corresponden al punto en el espacio.
 De manera que si quisiera obtener y graficar la proteina en 3D debería recorrer esa lista y a cada punto preguntarte sus coordenadas.
 
@@ -25,7 +25,7 @@ Un ejemplo podría ser el siguiente intentado representar la proteina 1UBQ
 ] 
 Donde cada objeto representando en json tiene internamente el aminoacido que corresponde junto a su punto en el espacio.
 
-** RETO IV Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido.¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
+**RETO IV Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido.¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?**
 Sus grandes contribuciones están dada por la utilización de rayos x para obtener imágenes de la estructura del ADN mediante la defracción de dichos rayos.
 En su estadía en Paris pudo aprender sobre la utilización de los rayos X. 
 En el King's College se perfeccionó y mejoró el aparato para obtener imágenes del ADN logrando una nitidez nunca antes alcanzada junto a su doctorando Raymong Gosling.
@@ -33,7 +33,7 @@ En el King's College se perfeccionó y mejoró el aparato para obtener imágenes
 Su historia nos cuenta el machismo reinante en dicha época en el ámbito académicos el cual llevó a que nunca haya sido reconocida en vida y que muy merecido tenía.
 Fue denigrada muchas veces por sus competidores y colegas del King's College: Maurice Wilkins, Francis Crick, James Watson por el solo hecho de ser mujer.
 
-** RETO V:Proponé en pseudocódigo un programa que prediga la estructura secundaria que adoptará cada residuo(aminoácido) de la secuencia proteica dada, especificandola como H (si es una hélice), B (si es una hoja betaplegada) y L (si es un bucle o loop).**
+**RETO V:Proponé en pseudocódigo un programa que prediga la estructura secundaria que adoptará cada residuo(aminoácido) de la secuencia proteica dada, especificandola como H (si es una hélice), B (si es una hoja betaplegada) y L (si es un bucle o loop).**
 
 Nuestra proteina
 
