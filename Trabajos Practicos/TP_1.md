@@ -23,9 +23,12 @@ Un ejemplo podría ser el siguiente intentado representar la proteina 1UBQ
 > [ 
 >
 > 	{ aminoacido: MET, posicion: (x1, y1, z1)}, 
+>
 > 	{ aminoacido: GLN, posicion: (x2, y2, z2)}, 
+>
 > 	...
 > 	{ aminoacido: GLY, posicion: (xn, yn, zn)} 
+>
 > ] 
 Donde cada objeto representando en json tiene internamente el aminoacido que corresponde junto a su punto en el espacio.
 
