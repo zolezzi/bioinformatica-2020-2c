@@ -30,6 +30,7 @@ Un ejemplo podría ser el siguiente intentado representar la proteina 1UBQ
 > 	{ aminoacido: GLY, posicion: (xn, yn, zn)} 
 >
 > ] 
+
 Donde cada objeto representando en json tiene internamente el aminoacido que corresponde junto a su punto en el espacio.
 
 **RETO IV Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido.¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?**
@@ -48,26 +49,39 @@ Nuestra proteina
 > var proteina = [ M, Q, I, F, ...]
 > 
 > function predictHBL(proteina){
+>
 > 	var result = [];
 > 
 > 	for(Aminoacido aminoacido: proteina){	
+>
 > 		var h = getH(aminoacido);
+>
 > 		var b = getH(aminoacido);
+>
 > 		var l = getL(aminoacido);
+>
 > 		result.agregar( { amionacido: amionacido, values: (h, b, l)  });
+>
 > 	}
 > 
 > 	return result;
+>
 > }
 > 
 
 La salida sería la siguiente donde es un objeto donde contiene el aminoácido y otro componente donde es un objeto con los valores convertidos a HBL.
 > [
+>
 > 	{M, (H, B, L )},
+>
 > 	{Q, (H, B, L)},
+>
 > 	{I, (H, B, L)},
+>
 > 	{F, (H, B, L)},
+>
 > 	...
+>
 > ]
 
 
@@ -77,17 +91,24 @@ Lo que hace distinto a los individuos de una especie es el ADN que es el que con
 Una forma de poder corroborar es dado dos secuencias de ADN (es decir dos cadenas de nucleótidos que reprensenta cada uno a un individuo) recorrerlas e ir comparando cada nucleótido, en caso que uno no sea igual, quiere decir que no representa al mismo individuo.
 > 
 > secuenceADN1 = [...]
+>
 > secuencueADN2 = [...]
 > 
 > function compareTwoADN(secuenceADN1, secuencueADN2){
+>
 > 	result = true;
 > 
 > 	for (int i= 0 ; i < secuenceADN1.length ; i++){
+>
 > 		nucleotidoADN1 = secuenceADN1[i];
+>
 > 		nucleotidoADN2 = secuenceADN2[i];
+>
 > 		result = nucleotidoADN1.equals( nucleotidoADN2 );
+>
 > 		if ! result break;  [//] es decir al primero que encuentre que es distinto, ya se que no son el mismo individuo por > >  lo que sale de la iteración para que siga recorriendo.
 > 	}
 > 
 > 	return result;
+>
 > }
