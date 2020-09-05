@@ -21,6 +21,7 @@ De manera que si quisiera obtener y graficar la proteina en 3D debería recorrer
 Un ejemplo podría ser el siguiente intentado representar la proteina 1UBQ 
 > 
 > [ 
+>
 > 	{ aminoacido: MET, posicion: (x1, y1, z1)}, 
 > 	{ aminoacido: GLN, posicion: (x2, y2, z2)}, 
 > 	...
