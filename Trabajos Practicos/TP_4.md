@@ -39,7 +39,7 @@ MGDVEKGKKVFVQKCSQCHTVEKGGKHKTGPNLHGLFGRKTGQAEGFSYTDANKNKGIVWDEDTLMVYLENPKKYIPGTK
 >NP_001285984.1 cytochrome c proximal, isoform B [Drosophila melanogaster]
 MGVPAGDVEKGKKLFVQRCAQCHTVEAGGKHKVGPNLHGLIGRKTGQAAGFAYTDANKAKGITWNEDTLFEYLENPKKYIPGTKMIFAGLKKPNERGDLIAYLKSATK
 
-**¿Cuán sencillo será alinear dos o más secuencias a mano? ¿Cuánto influirán el número de secuencias a alinear, su longitud, y la similitud entre ellas?
+**¿Cuán sencillo será alinear dos o más secuencias a mano? ¿Cuánto influirán el número de secuencias a alinear, su longitud, y la similitud entre ellas?**
 
 Alinear dos secuencias sería en principio sencillo ya que son secuencias de aminoácidos cortas que tienen una longitud de 100 caracteres en promedio, los cuales presentan similitudes apreciables. 
 Llegado el caso de querer hacerlo a mano más de dos secuencias se tornaría muy complejo y escalaría la dificultad considerando las diferentes longitudes de la secuencia, sería muy poco eficiente y se perdería demasiado tiempo haciendolo.
@@ -49,7 +49,7 @@ Llegado el caso de querer hacerlo a mano más de dos secuencias se tornaría muy
 Con respecto a estos dos casos puntuales presentan a simple vista un parecido aunque si nos ponemos a analizar elemento a lemento de ambas cadenas podemos notar diferencias que caracterizan a cada especie. 
 El concepto de "parecidos" nos parece un poco arbitrario y no podemos hablar con certezas ya que presentan similitudes aunque podemos notar que hay casos donde no es el mismo caracter TODO
 
-[Comparacion](https://imgur.com/9FzjriI)
+![Comparacion](https://imgur.com/9FzjriI)
 
 **¿Qué teorías subyacen a este análisis?**
 
@@ -92,7 +92,7 @@ Por un lado creemos que debería estar relacionado el humano con el chimpance y 
 
 **Observemos el árbol filogenético. ¿Concuerda con lo esperado? ¿De qué organismos son los citocromos c más parecidos? ¿Cómo se explica?**
 
-[arbol-filogenetico](https://imgur.com/2hhCQzI)
+![arbol-filogenetico](https://imgur.com/2hhCQzI)
 
 Como se puede observar el programa agrupa según lo que pensábamos: mamíferos y los que no lo son.
 En gran parte concuerda con lo que esperabamos aunque nos sorprende que haya una relación entre el gallo y la rana con el salmón.
