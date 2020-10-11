@@ -57,7 +57,13 @@ Las teorías que subyacen este análisis es la evolución con respecto al paso d
 
 **¿Cómo nos ayuda la evolución a explicar sus similitudes y diferencias?**
 
-TODO
+Se podría decir que dos secuencias similares pueden presentar pequeñas diferencias porque una de ellas sufrió una evolución que provocó un cambio en uno de sus aminoácido. Según la investigación de Stanley L. Miller y Joan Oró se nos indican que la vida probablemente comenzó hace unos 3.800 millones de años. 
+Esto implica que en la Tierra primitiva se sintetizaron las primeras moléculas orgánicas, muy posiblemente en el que fueron organizándose progresivamente, para formar otras más largas y complejas, que derivó en moléculas mucho más avanzadas. 
+A partir de estas se originaron sistemas que combinaban características fundamentales: un compartimento (delimitado por una membrana - citoplasmática), un metabolismo básico (que permitía intercambiar materia y energía con el entorno) y una molécula con información genética (probablemente el ARN, que luego daría lugar a las proteínas y al ADN). 
+
+Se consideran que esas células primitivas fueron los primeros seres vivos, pues ya tenían capacidad para automantenerse y autorreproducirse. A partir de ellas, la evolución por selección natural dio lugar a una especie unicelular más compleja, que fue el antepasado del que deriva toda la biodiversidad actual. 
+
+Entendiendo que desde un punto de vista biológico, la evolución se va dando a través de mutaciones que perduran en el tiempo, para una especie dada. En este punto, el término evolución y mutación está fuertemente relacionados (siempre considerando la condición necesaria y suficiente de que esta perdure en la descendencia). Y si bien no se sabe exactamente cómo empezó la vida, este conocimiento nos invita a reflexionar sobre el papel que tuvo la evolución y como esta determinó cambios en las secuencias, lo cual conlleva a que se presenten similitudes y diferencias entre estas.
 
 **Podemos elegir verlo en colores (Show Color) ¿Qué indican los colores?**
 
