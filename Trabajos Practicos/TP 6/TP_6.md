@@ -21,10 +21,10 @@ En pocas palabras a mayor cantidad de datos, podemos obtener una respuesta mucho
 
 **RETO II: Como vimos anteriormente existen algunos softwares optimizados para confeccionar alineamientos de secuencias. En particular hemos trabajado con Clustal​(Larkinetal.2007)​. Confecciona los alineamientos para los del punto Ia y Ib análisis.
 
-![Ej Ia](./img/Ia.jpg)
+![Ej Ia](./img/Ia.JPG)
 
 
-![Ej Ia](./img/Ib.jpg)
+![Ej Ia](./img/Ib.JPG)
 
 
 **RETO III : Mediante el uso del servidor de ​IQtree ​(Trifinopoulosetal.2016)​, confecciona los árboles filogenéticos para los alineamientos obtenidos en el punto II.**
